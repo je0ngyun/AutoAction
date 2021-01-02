@@ -2,9 +2,8 @@
 
 2019-09
 
-## IDE,Jar used
+## Jar used
 
-Eclipse
 jnativehook-2.1.0.jar
 
 ## Author
